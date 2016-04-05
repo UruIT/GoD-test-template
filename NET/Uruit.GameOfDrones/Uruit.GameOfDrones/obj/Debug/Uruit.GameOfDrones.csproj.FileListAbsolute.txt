@@ -30,3 +30,34 @@ c:\users\administrator\documents\visual studio 2013\Projects\Uruit.GameOfDrones\
 c:\users\administrator\documents\visual studio 2013\Projects\Uruit.GameOfDrones\Uruit.GameOfDrones\obj\Debug\Uruit.GameOfDrones.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2013\Projects\Uruit.GameOfDrones\Uruit.GameOfDrones\obj\Debug\Uruit.GameOfDrones.dll
 c:\users\administrator\documents\visual studio 2013\Projects\Uruit.GameOfDrones\Uruit.GameOfDrones\obj\Debug\Uruit.GameOfDrones.pdb
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\Uruit.GameOfDrones.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\Uruit.GameOfDrones.pdb
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\Antlr3.Runtime.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\Microsoft.Web.Infrastructure.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\Newtonsoft.Json.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Net.Http.Formatting.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Helpers.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Http.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Http.WebHost.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Mvc.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Optimization.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Razor.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.WebPages.Deployment.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.WebPages.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.WebPages.Razor.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\WebGrease.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\Newtonsoft.Json.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Net.Http.Formatting.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Helpers.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Http.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Http.WebHost.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Mvc.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Optimization.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.Razor.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.WebPages.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.WebPages.Deployment.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\System.Web.WebPages.Razor.xml
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\bin\Antlr3.Runtime.pdb
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\obj\Debug\Uruit.GameOfDrones.csprojResolveAssemblyReference.cache
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\obj\Debug\Uruit.GameOfDrones.dll
+C:\_Application\GoD-test-template\Uruit.GameOfDrones\Uruit.GameOfDrones\obj\Debug\Uruit.GameOfDrones.pdb
