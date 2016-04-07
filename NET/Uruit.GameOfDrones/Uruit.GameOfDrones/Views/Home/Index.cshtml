@@ -1,0 +1,100 @@
+﻿<div class="jumbotron">
+    <h1>Game Of Drones</h1>
+    <p class="lead"></p>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <h2>Programming Assesment</h2>
+        <p>
+            The purpose of this exam is to provide a better understanding of your design, programming, and analysis skills. As with any programming project, you will need to balance de amount of time spent working againt the quality of the final result. We ask to not expend more than 3 calendar days.<br><br>
+            Please email a ZIP file with the solution and a readme file explaining if it is required to follow any aditional step to run the game. It would be great to run the solution directly from Visual Studio 2013 or 2015 without any additional step.
+            You have to use the following technologies:
+        </p>
+
+        <ul class="list-group">
+            <li class="list-group-item">AngularJS</li>
+            <li class="list-group-item">ASP.NET MVC or Web Api</li>
+        </ul>
+        <div class="alert alert-warning" role="alert">You can add any library/framework and use the database you prefer.</div>
+
+        <h2>Specifications</h2>
+        <p>
+            In the "game of drones" there are 2 players trying to conquer each other.<br>
+            Players take turns to move, and moves are basically 3: Paper, Rock, Scissors. And just like the game “Paper, rock, scissors”, each move ¨kills¨ another move.<br><br>
+            Like so:<br><br>
+        </p>
+        <ul class="list-group">
+            <li class="list-group-item">Paper beats Rock</li>
+            <li class="list-group-item">Rock beats scissors</li>
+            <li class="list-group-item">Scissors beat Paper</li>
+        </ul>
+        <p>
+
+            The first player to beat the other player 3 times, wins the battle.
+
+        </p>
+
+        <h2>We would like you to create a web site with:</h2>
+
+        <ul class="list-group">
+            <li class="list-group-item">1. A Start button to begin the game</li>
+            <li class="list-group-item">2. Players are asked for their names. (only 2 players)</li>
+            <li class="list-group-item">3. The game beings and each player is asked to choose one of the 3 moves.</li>
+            <li class="list-group-item">4. First it asks player1, then player2, and the systems computes the result of the play. (The game happens on the same computer for both players. It is not required to create a true online game. 2 players share the computer, and the system asks each player for their move assuming the other player looks away while the other selects the move)</li>
+            <li class="list-group-item">5. this repeats until one of the players wins 3 times. This is the winner of the game.  </li>
+            <li class="list-group-item">6. the result of each round should be displayed somewhere in the screen… so that players know what´s the total score.</li>
+            <li class="list-group-item">7. once a game is finished, the start button is displayed again so that a new game can be played.</li>
+        </ul>
+
+        <h2>Additional features</h2>
+
+        The result of a game should be stored somewhere to keep track of games won by each player. So basically we would like to know how many games a player has won.
+        <br><br>
+        An important feature is to be possible to change the ¨moves¨ in runtime. This means that after a game completes, one could change the default move rules and have more moves added or change the way each move ¨kills¨ the other. We are interested in a simple solution easy to implement.
+        <br><br>
+        We do not encourage to use an XML file but to give an example to illustrate, a typical game could be described by the following xml file:
+        <br><br>
+        <div class="row">
+            <textarea rows="6" cols="50" style="border:none;">
+                <moves>
+                    <paper kills="Rock" />
+                    <rock kills="Scissors" />
+                    <scissors kills="Paper" />
+                </moves>
+            </textarea>
+        </div>
+
+        But one could change that to:
+        <br><br>
+        <div class="row">
+            <textarea rows="8" cols="50" style="border:none;">
+                <moves>
+                    <paper kills="Rock" />
+                    <rock kills="Scissors" />
+                    <scissors kills="String" />
+                    <string kills="Dog" />
+                    <dog kills="Paper" />
+                </moves>
+            </textarea>
+        </div>
+        In this scenario it could happen that no player wins a round.
+        <br>that case nothing happens and the game continues to the next round.
+        <br><br>
+        <h2>Mocks</h2>
+        Here is a mock of each screen. You are free to modify the look and feel of the screen as you please.
+        <br><br>
+        To start a game, the system asks for the name of each player.
+        <br>
+        <img src="~/Content/Images/pic1.png" width="350px"/><br>
+        The game starts with Round1. The system asks Player1 for a move. Replace [Player1 Name] with player’s name.
+        <br><img src="~/Content/Images/pic3.png" width="300px" /><br>
+        After player 1 selects a move, then the system asks player 2 for a move (same round)
+        <br><img src="~/Content/Images/pic4.png" width="300px" /><br>
+        Winners of each round are displayed somewhere on the screen. Here we see Round3, and to the right the score of the previous rounds:
+        <br><img src="~/Content/Images/pic5.png" width="400px" /><br>
+        When a player reaches 3 wins, he is the winner, and the following screen displays:
+        <br><img src="~/Content/Images/pic6.png" width="400px" /><br>
+        Clicking the Play Again button, the systems takes you to the first screen. 
+    </div>
+
+</div>
